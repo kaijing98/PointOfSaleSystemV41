@@ -8,6 +8,7 @@ We use a command line interface in this case and the model-view-controller frame
 Data Access Object is not required as we use the JPA Entity Manager instead.
 
 Some of the use cases that can be performed include:
+
 For Cashier:
 - Checkout
 - Void or Refund

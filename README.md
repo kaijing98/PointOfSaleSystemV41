@@ -1,6 +1,6 @@
 # PointOfSaleSystemV41
-# This version uses Java EE and can be run in Netbeans
-Point Of Sale System to illustrate the idea of multitier architecture enterprise systems
+# Illustrates the idea of multitier architecture enterprise systems
+This version uses Java EE and can be run in Netbeans
 
 Version41 of the Point of Sale System makes use of a three tier distributed system architecture, 
 includes a relational database and a Java Persistance API.

@@ -7,7 +7,7 @@ includes a relational database and a Java Persistance API.
 We use a command line interface in this case and the model-view-controller framework.
 Data Access Object is not required as we use the JPA Entity Manager instead.
 
-Some of the use cases that can be performed include:
+All use cases below are now implemented with JPA.
 
 For Cashier:
 - Checkout
@@ -24,6 +24,3 @@ For Manager:
 - Update Product
 - Delete Product
 - View All Products
-
-In addition, once the client checks out, we will use asynchronous processing to
-sent an email notification to customer 
